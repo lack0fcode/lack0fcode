@@ -1,6 +1,6 @@
 # 👋 Hello, I'm lack0fcode!
 
-![Fractal Banner](image1)
+![Fractal Banner](WAllPPR.jpg)
 
 ---
 
