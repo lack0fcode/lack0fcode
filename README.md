@@ -1,55 +1,50 @@
-# 👋 Hello, I'm lack0fcode!
+# Hey there, I'm Caue Tragante
 
-![Fractal Banner](WAllPPR.jpg)
-
----
-
-## 🧑‍💻 About Me
-
-- 💡 Computer Engineering Student exploring the intersection of software, cloud infrastructure, and data.
-- 🌱 Constantly learning and experimenting with new technologies.
-- 👥 Enjoy collaborating on open source and impactful projects.
-- 🌎 Aiming to solve real-world problems with technology.
+<p align="center">
+  Computer Engineering Student • Cloud • DevOps • Automation • Data
+</p>
 
 ---
 
-## 🛠️ Top Skills
+## About
 
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="32"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" alt="AWS" width="32"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="32"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="32"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="32"/>
-</span>
+Computer Engineering student interested in cloud architecture, FinOps, Infrastructure as Code and automation.
 
----
+I enjoy building scalable backend systems, infrastructure-focused solutions using modern DevOps practices and cloud technologies.
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tragantec/)
+Exploring:
+- Architecture & distributed systems
+- FinOps & cloud optimization
+- IaC, automation & DevOps
+- AI/ML engineering
+- Linux, containers & networking
 
 ---
 
-## 🌟 GitHub Status
+## Stacks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lack0fcode&show_icons=true&theme=github_dark)
-
-<details>
-  <summary>More detailed stats</summary>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lack0fcode&layout=compact&theme=github_dark)
-  <br>
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=lack0fcode&theme=github-dark&hide_border=true)
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,ansible,bash,debian,django,docker,git,grafana,ipfs,linux,nodejs,nginx,obsidian,postgres,postman,prisma,prometheus,python,pytorch,r,redis,ruby,rust,selenium,solidity,sklearn,tensorflow,terraform,vercel,vscode" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tragantec/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-_Thanks for visiting! ⭐️_
+<p align="center">
+  <img src="WAllPPR.jpg" alt="Banner" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting ⭐
+</p>
